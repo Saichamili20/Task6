@@ -1,12 +1,14 @@
-#Sales Trend Analysis Using Aggregations – SQL
-##Overview
+Sales Trend Analysis Using Aggregations – SQL
+
+Overview
 
 This project analyzes chocolate sales data using SQL aggregation functions to uncover trends in revenue, volume, product performance, and monthly patterns. The dataset was originally in CSV format, then converted into an SQL table for querying.
 
-##Dataset
+Dataset
 
 Table Name: chocolate_sales
-##Columns:
+
+Columns:
 
 sales_person – Name of the salesperson
 
@@ -28,7 +30,7 @@ SUM() – To calculate total sales/revenue
 
 COUNT() & COUNT(DISTINCT) – To find sales volume
 
-##Possible Extensions
+Possible Extensions
 
 Create visualizations in Power BI / Tableau using the SQL results.
 
